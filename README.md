@@ -10,3 +10,7 @@ _Стек, очередь, СНМ_
 _Динамическое программирование_
  * [Условия задач](http://codeforces.com/group/CYMPFXi8zA/contest/234464)
  * [Решения](Lab_3)
+
+_Дерево отрезков_
+ * [Условия задач](http://codeforces.com/group/CYMPFXi8zA/contest/240094)
+ * [Решения](Lab_4)
