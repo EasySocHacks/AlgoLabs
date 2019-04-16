@@ -6,3 +6,7 @@ _Сортировки, куча, бинпоиск_
 _Стек, очередь, СНМ_
  * [Условия задач](http://codeforces.com/group/CYMPFXi8zA/contest/232787)
  * [Решения](Lab_2)
+
+_Динамическое программирование_
+ * [Условия задач](http://codeforces.com/group/CYMPFXi8zA/contest/234464)
+ * [Решения](Lab_3)
