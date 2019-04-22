@@ -14,3 +14,7 @@ _Динамическое программирование_
 _Дерево отрезков_
  * [Условия задач](http://codeforces.com/group/CYMPFXi8zA/contest/240094)
  * [Решения](Lab_4)
+
+_Дерево поиска_
+ * [Условия задач](https://codeforces.com/group/CYMPFXi8zA/contest/241546)
+ * [Решения](Lab_5)
