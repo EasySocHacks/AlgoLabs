@@ -18,3 +18,7 @@ _Дерево отрезков_
 _Дерево поиска_
  * [Условия задач](https://codeforces.com/group/CYMPFXi8zA/contest/241546)
  * [Решения](Lab_5)
+
+_Запросы на деревьях_
+ * [Условия задач](https://codeforces.com/group/CYMPFXi8zA/contest/243321)
+ * [Решения](Lab_6)
