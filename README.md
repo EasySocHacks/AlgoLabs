@@ -1,6 +1,6 @@
 # ITMO Algo labs
 
-**END**
+**ENG**
 
 Lab's solutions of IFMO's algorith and data structures cours <br>
 *Links to contests with tasks are not guaranteed to work forever*. <br>
